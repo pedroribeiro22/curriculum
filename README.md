@@ -8,7 +8,8 @@
 
 [![Build Status](https://semaphoreci.com/api/v1/nelsonmestevao/dotfiles/branches/master/badge.svg)][semaphoreci]
 
-## Install
+## Me
+I'm a Braga based software engineer and web designer looking to get a job. Let's start scrolling and learn more about me.
 
 ```shell
 git clone https://github.com/pedroribeiro22/dotfiles ~/.dotfiles
