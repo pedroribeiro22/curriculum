@@ -333,27 +333,27 @@ ul#nav li.current a { color: #0F9095; }
   	-webkit-animation: photoshop 2s ease;
 }
 .html {
-  	width: 55%;
+  	width: 50%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .css {
-  	width: 50%;
+  	width: 40%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .javascript {
-  	width: 90%;
+  	width: 50%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .c {
-  	width: 80%;
+  	width: 60%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .go {
-  	width: 50%;
+  	width: 30%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
