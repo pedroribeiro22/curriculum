@@ -11,22 +11,10 @@
 ## Me
 I'm a Braga based software engineer and web designer looking to get a job. Let's start scrolling and learn more about me.
 
-```shell
-git clone https://github.com/pedroribeiro22/dotfiles ~/.dotfiles
-git clone https://github.com/nelsonmestevao/spells   ~/.spells
-cd ~/.dotfiles
-sh install.sh
-```
+## What is this ...
+This repository is somewhat of my way of developing some skils in HTML as well as CSS. Hopefuly it is some other way to give visibility to some of the work I've developed as well as the work I'm about to develop.
 
-## Uninstall
 
-```shell
-cd ~/.dotfiles
-sh uninstall.sh
-cd ~
-rm -rf ~/.dotfiles
-rm -rf ~/.spells
-```
 
-## Credits
-* [Nelson Estevão](https://github.com/nelsonmestevao)
+## Website
+* [Online Curriculum](https://pedro-curriculum.netlify.com/)
