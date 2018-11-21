@@ -1,41 +1,6 @@
-/*
-=====================================================================
-*   Ceevee v1.0 Default Stylesheet
-*   url: styleshout.com
-*   03-17-2014
-=====================================================================
-
-TOC:
-a. Webfonts and Icon fonts
-b. Reset
-c. Default Styles
-   1. Basic
-   2. Typography
-   3. Links
-   4. Images
-   5. Buttons
-   6. Forms
-d. Grid
-e. Others
-   1. Clearing
-   2. Misc
-
-=====================================================================  */
-
-/* ------------------------------------------------------------------ */
-/* a. Webfonts and Icon fonts
- ------------------------------------------------------------------ */
-
 @import url("fonts.css");
 @import url("fontello/css/fontello.css");
 @import url("font-awesome/css/font-awesome.min.css");
-
-/* ------------------------------------------------------------------
-/* b. Reset
-      Adapted from:
-      Normalize.css - https://github.com/necolas/normalize.css/
-      HTML5 Doctor Reset - html5doctor.com/html-5-reset-stylesheet/
-/* ------------------------------------------------------------------ */
 
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -119,14 +84,6 @@ table {
 }
 
 
-/* ------------------------------------------------------------------ */
-/* c. Default and Basic Styles
-      Adapted from:
-      Skeleton CSS Framework - http://www.getskeleton.com/
-      Typeplate Typographic Starter Kit - http://typeplate.com/
-/* ------------------------------------------------------------------ */
-
-/*  1. Basic  ------------------------------------------------------- */
 
 *,
 *:before,
@@ -153,9 +110,6 @@ body {
 	-webkit-text-size-adjust: 100%;
 }
 
-/*  2. Typography
-       Vertical rhythm with leading derived from 6
---------------------------------------------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
    color: #313131;
@@ -218,16 +172,7 @@ blockquote cite:before { content: "\2014 \0020"; }
 blockquote cite a,
 blockquote cite a:visited { color: #8B9798; border: none }
 
-/* ---------------------------------------------------------------------
-/*  Pull Quotes Markup
-/*
-    <aside class="pull-quote">
-		<blockquote>
-			<p></p>
-		</blockquote>
-	 </aside>
-/*
-/* --------------------------------------------------------------------- */
+
 .pull-quote {
    position: relative;
 	padding: 18px 30px 18px 0px;
@@ -282,8 +227,6 @@ abbr:hover { cursor: help; }
 
 hr { border: solid #E3E3E3; border-width: 1px 0 0; clear: both; margin: 11px 0 30px; height: 0; }
 
-
-/*  3. Links  ------------------------------------------------------- */
 
 a, a:visited {
    text-decoration: none;
