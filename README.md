@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-[![Build Status](https://semaphoreci.com/api/v1/nelsonmestevao/dotfiles/branches/master/badge.svg)][semaphoreci]
-
 ## Me
 I'm a Braga based software engineer student and web designer aspirant looking to get my work out. If you want to know a bit more about my work just follow the link below in order to get to my web resume as well as my PDF one.
 
